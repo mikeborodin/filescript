@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>io.gihub.mikeborodin.interpreter</OriginalElement>
+  <nodes>
+    <node x="1682.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.terminalexp.VariableExpr</node>
+    <node x="2449.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileWrite</node>
+    <node x="2489.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileList</node>
+    <node x="1788.8333333333326" y="532.0">io.gihub.mikeborodin.interpreter.context.IContext</node>
+    <node x="2569.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRead</node>
+    <node x="1825.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.And</node>
+    <node x="2779.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRemove</node>
+    <node x="2348.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Input</node>
+    <node x="1728.0" y="291.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.Equals</node>
+    <node x="2332.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileLineCount</node>
+    <node x="2099.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileExists</node>
+    <node x="1500.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayAdd</node>
+    <node x="2687.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Run</node>
+    <node x="1747.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayGet</node>
+    <node x="2063.8333333333326" y="532.0">io.gihub.mikeborodin.interpreter.lexer.LanguageSyntax</node>
+    <node x="1749.8333333333326" y="689.0">io.gihub.mikeborodin.interpreter.Converter</node>
+    <node x="1461.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.NotEquals</node>
+    <node x="2033.8333333333326" y="689.0">io.gihub.mikeborodin.interpreter.lexer.Token</node>
+    <node x="1917.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Divide</node>
+    <node x="2257.833333333332" y="532.0">io.gihub.mikeborodin.interpreter.context.IInputManager</node>
+    <node x="1365.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Mod</node>
+    <node x="2441.833333333332" y="532.0">io.gihub.mikeborodin.interpreter.lexer.TokenTypes</node>
+    <node x="2269.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Echo</node>
+    <node x="2163.833333333332" y="689.0">io.gihub.mikeborodin.interpreter.Types</node>
+    <node x="1591.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.unary.Not</node>
+    <node x="1902.8333333333326" y="689.0">io.gihub.mikeborodin.interpreter.parser.Parser</node>
+    <node x="1762.3333333333328" y="403.0">io.gihub.mikeborodin.interpreter.parser.terminalexp.ArrayElementAccess</node>
+    <node x="1363.0" y="291.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Multiply</node>
+    <node x="1480.0" y="291.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.GreaterThan</node>
+    <node x="1935.8333333333326" y="613.0">io.gihub.mikeborodin.interpreter.lexer.Lexer</node>
+    <node x="2717.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToPath</node>
+    <node x="1555.8333333333328" y="618.0000000000001">io.gihub.mikeborodin.interpreter.parser.statements</node>
+    <node x="1567.499999999999" y="685.6666666666665">io.gihub.mikeborodin.interpreter.parser.FileHelpers</node>
+    <node x="1624.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArraySize</node>
+    <node x="1933.8333333333326" y="532.0">io.gihub.mikeborodin.interpreter.lexer.ILexer</node>
+    <node x="1643.3333333333328" y="403.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Subtract</node>
+    <node x="2102.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileDirLineCount</node>
+    <node x="2598.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToString</node>
+    <node x="1623.0" y="291.0">io.gihub.mikeborodin.interpreter.parser.terminalexp.Literal</node>
+    <node x="1868.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Add</node>
+    <node x="1573.1666666666658" y="483.66666666666686">io.gihub.mikeborodin.interpreter.parser.IStatement</node>
+    <node x="2366.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileMkdir</node>
+    <node x="2105.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.LessThan</node>
+    <node x="2229.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Async</node>
+    <node x="1374.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayFind</node>
+    <node x="2221.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileCreate</node>
+    <node x="1790.8333333333326" y="613.0">io.gihub.mikeborodin.interpreter.context.Context</node>
+    <node x="2022.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.Or</node>
+    <node x="2291.833333333332" y="689.0">io.gihub.mikeborodin.interpreter.Value</node>
+    <node x="1948.0" y="0.0">io.gihub.mikeborodin.interpreter.parser.IExpression</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayAdd" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="178.0" y="71.0" />
+      <point x="1953.1617647058824" y="71.0" />
+      <point x="-53.33823529411757" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.terminalexp.Literal" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1195.5" y="151.0" />
+      <point x="1980.6911764705883" y="151.0" />
+      <point x="-25.80882352941171" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.Or" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="2053.5" y="211.0" />
+      <point x="2008.2205882352941" y="211.0" />
+      <point x="1.7205882352941444" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Run" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="3832.0" y="61.0" />
+      <point x="2059.8382352941176" y="61.0" />
+      <point x="53.33823529411757" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileList" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="2913.5" y="141.0" />
+      <point x="2032.3088235294117" y="141.0" />
+      <point x="25.80882352941171" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Async" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="2270.5" y="191.0" />
+      <point x="2015.1029411764705" y="191.0" />
+      <point x="8.602941176470495" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileWrite" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="3608.0" y="81.0" />
+      <point x="2052.955882352941" y="81.0" />
+      <point x="46.45588235294099" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.LessThan" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="2157.0" y="201.0" />
+      <point x="2011.6617647058824" y="201.0" />
+      <point x="5.161764705882433" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRead" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="3727.0" y="71.0" />
+      <point x="2056.3970588235293" y="71.0" />
+      <point x="49.89705882352928" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileDirLineCount" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="2555.5" y="171.0" />
+      <point x="2021.985294117647" y="171.0" />
+      <point x="15.485294117647072" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.NotEquals" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1516.0" y="181.0" />
+      <point x="1991.014705882353" y="181.0" />
+      <point x="-15.485294117647072" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileExists" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="3259.0" y="111.0" />
+      <point x="2042.6323529411764" y="111.0" />
+      <point x="36.13235294117635" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRemove" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="3946.5" y="51.0" />
+      <point x="2063.279411764706" y="51.0" />
+      <point x="56.779411764705856" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToString" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="3027.5" y="131.0" />
+      <point x="2035.75" y="131.0" />
+      <point x="29.25" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.Equals" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1301.5" y="161.0" />
+      <point x="1984.1323529411766" y="161.0" />
+      <point x="-22.367647058823422" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.lexer.Lexer" target="io.gihub.mikeborodin.interpreter.lexer.ILexer">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.And" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1861.0" y="211.0" />
+      <point x="2001.3382352941176" y="211.0" />
+      <point x="-5.161764705882433" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileMkdir" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="2797.5" y="151.0" />
+      <point x="2028.8676470588234" y="151.0" />
+      <point x="22.367647058823422" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.context.Context" target="io.gihub.mikeborodin.interpreter.context.IContext">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileLineCount" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="2397.0" y="181.0" />
+      <point x="2018.5441176470588" y="181.0" />
+      <point x="12.044117647058783" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.unary.Not" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1626.5" y="191.0" />
+      <point x="1994.4558823529412" y="191.0" />
+      <point x="-12.044117647058783" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Echo" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="2687.5" y="161.0" />
+      <point x="2025.4264705882351" y="161.0" />
+      <point x="18.926470588235134" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.GreaterThan" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1071.5" y="141.0" />
+      <point x="1977.25" y="141.0" />
+      <point x="-29.25" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.terminalexp.VariableExpr" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1743.5" y="201.0" />
+      <point x="1997.8970588235293" y="201.0" />
+      <point x="-8.602941176470722" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Input" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="3497.5" y="91.0" />
+      <point x="2049.5147058823527" y="91.0" />
+      <point x="43.0147058823527" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArraySize" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="301.5" y="81.0" />
+      <point x="1956.6029411764705" y="81.0" />
+      <point x="-49.897058823529505" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayFind" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="53.0" y="61.0" />
+      <point x="1949.7205882352941" y="61.0" />
+      <point x="-56.779411764705856" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToPath" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="3142.5" y="121.0" />
+      <point x="2039.1911764705883" y="121.0" />
+      <point x="32.69117647058829" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Mod" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1403.0" y="171.0" />
+      <point x="1987.5735294117646" y="171.0" />
+      <point x="-18.92647058823536" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Subtract" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1223.5" y="119.0" />
+      <point x="1966.9264705882354" y="111.0" />
+      <point x="-39.57352941176464" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileCreate" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="3383.5" y="101.0" />
+      <point x="2046.0735294117646" y="101.0" />
+      <point x="39.57352941176464" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Multiply" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="941.5" y="131.0" />
+      <point x="1973.8088235294117" y="131.0" />
+      <point x="-32.69117647058829" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Divide" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1959.5" y="221.0" />
+      <point x="2004.7794117647059" y="221.0" />
+      <point x="-1.7205882352941444" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.terminalexp.ArrayElementAccess" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="1377.0" y="139.0" />
+      <point x="1970.3676470588234" y="121.0" />
+      <point x="-36.13235294117658" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Add" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="530.0" y="101.0" />
+      <point x="1963.485294117647" y="101.0" />
+      <point x="-43.01470588235293" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.statements" target="io.gihub.mikeborodin.interpreter.parser.IStatement">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayGet" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+      <point x="0.0" y="-15.5" />
+      <point x="423.5" y="91.0" />
+      <point x="1960.0441176470588" y="91.0" />
+      <point x="-46.45588235294122" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.3189575881451201" x="1902.1519928078444" y="538.1839971661741" />
+  <SelectedNodes>
+    <node>io.gihub.mikeborodin.interpreter.parser.IExpression</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

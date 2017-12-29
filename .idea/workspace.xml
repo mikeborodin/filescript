@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="fscript:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b83f585-14d9-4793-8b57-4b1377b97f91" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/fscript$Main.coverage" NAME="Main Coverage Results" MODIFIED="1508090456304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/fscript$tests_in_fscript.coverage" NAME="tests in fscript Coverage Results" MODIFIED="1508620989567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.fs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_script_src/main.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="While.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/While.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="191" column="32" lean-forward="true" selection-start-line="191" selection-start-column="32" selection-end-line="191" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/console/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-683">
+              <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>is not a s</find>
+      <find>Ident</find>
+      <find>myCoolFile</find>
+      <find>BuildI</find>
+      <find>Wro</find>
+      <find>Parse</find>
+      <find>while</find>
+      <find>BuildStatement</find>
+      <find>Bool</find>
+      <find>BuildWhile</find>
+      <find>getNe</find>
+      <find>tln</find>
+      <find>While</find>
+      <find>ARRAYADD</find>
+      <find>equ</find>
+      <find>myarr</find>
+      <find>;</find>
+      <find>nextT</find>
+      <find>Take</find>
+      <find>BuildIf</find>
+      <find>ParseExpression</find>
+      <find>of t</find>
+      <find>whil</find>
+      <find>Whi</find>
+      <find>BuildW</find>
+      <find>Wh</find>
+      <find>ParseFunction</find>
+      <find>BuildInvocation</find>
+      <find>For</find>
+      <find>BuildFor</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>final</replace>
+      <replace>data</replace>
+      <replace>type</replace>
+      <replace>.type</replace>
+      <replace>String</replace>
+      <replace>Types</replace>
+      <replace>convert</replace>
+      <replace>sampleTxt</replace>
+      <replace>ARRAYGET</replace>
+      <replace>myArray</replace>
+      <replace>.</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions</dir>
+      <dir>$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/ArrayFind.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/Assignment.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/ArrayLength.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/ArrayGet.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileExists.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/arrays/ArrayLength.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/arrays/ArrayFind.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/arrays/ArrayAdd.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/console/ConsoleInputManager.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/TypeHelpers.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/Input.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/ToString.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileRead.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileWrite.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/Echo.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/Run.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/RunTest.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileRemove.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileCountLines.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/Converter.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/lexer/LexerDefinitions.java" />
+        <option value="$PROJECT_DIR$/allcode.fs" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileLineCount.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileDirLineCount.java" />
+        <option value="$PROJECT_DIR$/src/tests/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/FileHelpers.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/additive/Add.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileCreate.java" />
+        <option value="$PROJECT_DIR$/main.fs" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileList.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/arrays/ArrayGet.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileMkdir.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/context/Context.java" />
+        <option value="$PROJECT_DIR$/file_script_src/allcode.fs" />
+        <option value="$PROJECT_DIR$/file_script_src/demo_1.fs" />
+        <option value="$PROJECT_DIR$/file_script_src/demo_0.fs" />
+        <option value="$PROJECT_DIR$/file_script_src/demo_2.fs" />
+        <option value="$PROJECT_DIR$/file_script_src/demo_3.fs" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/console/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileAppend.java" />
+        <option value="$PROJECT_DIR$/file_script_src/allcode1.fs" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/Ащк.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/For.java" />
+        <option value="$PROJECT_DIR$/file_script_src/bigfile.txt" />
+        <option value="$PROJECT_DIR$/file_script_src/append.fs" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/Thread.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/lexer/TokenTypes.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/lexer/Lexer.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/lexer/LanguageSyntax.java" />
+        <option value="$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/Parser.java" />
+        <option value="$PROJECT_DIR$/file_script_src/main.fs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="679" />
+    <option name="height" value="746" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="file_script_src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="gihub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="gihub" type="462c0819:PsiDirectoryNode" />
+              <item name="mikeborodin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="gihub" type="462c0819:PsiDirectoryNode" />
+              <item name="mikeborodin" type="462c0819:PsiDirectoryNode" />
+              <item name="console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="gihub" type="462c0819:PsiDirectoryNode" />
+              <item name="mikeborodin" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="gihub" type="462c0819:PsiDirectoryNode" />
+              <item name="mikeborodin" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="gihub" type="462c0819:PsiDirectoryNode" />
+              <item name="mikeborodin" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fscript" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="gihub" type="462c0819:PsiDirectoryNode" />
+              <item name="mikeborodin" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="statements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fscript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="fscript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file_script_src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.gihub.mikeborodin.interpreter.parser.statements" />
+      <recent name="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files" />
+      <recent name="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file_script_src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="io.gihub.mikeborodin.console.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="file_script_src/main.fs" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="fscript" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="tests in fscript" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="fscript" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.tests in fscript" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.tests in fscript" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b83f585-14d9-4793-8b57-4b1377b97f91" name="Default" comment="" />
+      <created>1507904595619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507904595619</updated>
+      <workItem from="1507904597399" duration="23452000" />
+      <workItem from="1507968809831" duration="13208000" />
+      <workItem from="1508016621143" duration="1116000" />
+      <workItem from="1508051753540" duration="36023000" />
+      <workItem from="1508091099661" duration="12405000" />
+      <workItem from="1508580834436" duration="26423000" />
+      <workItem from="1508621168360" duration="3937000" />
+      <workItem from="1508658929164" duration="1376000" />
+      <workItem from="1508691887373" duration="9665000" />
+      <workItem from="1508702710380" duration="219000" />
+      <workItem from="1508702974602" duration="2440000" />
+      <workItem from="1508750627885" duration="4501000" />
+      <workItem from="1509024323418" duration="60000" />
+      <workItem from="1509360900040" duration="5207000" />
+      <workItem from="1509369235534" duration="2903000" />
+      <workItem from="1509815809290" duration="5997000" />
+      <workItem from="1509959340529" duration="486000" />
+      <workItem from="1509964339204" duration="3130000" />
+      <workItem from="1514496004145" duration="1384000" />
+      <workItem from="1514553961060" duration="699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="tests_in_fscript - 2017.10.22 at 00h 23m 51s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_fscript - 2017.10.22 at 00h 37m 44s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_fscript - 2017.10.22 at 00h 38m 57s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_fscript - 2017.10.22 at 00h 40m 06s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_fscript - 2017.10.22 at 00h 43m 47s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_fscript - 2017.10.22 at 00h 46m 23s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_fscript - 2017.10.22 at 00h 46m 41s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_fscript - 2017.10.22 at 00h 53m 08s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_fscript - 2017.10.22 at 01h 02m 08s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="tests_in_fscript - 2017.10.22 at 01h 26m 23s.xml">
+      <configuration name="tests in fscript" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="154631000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="746" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.24675325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="29" width="1366" height="717" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32272726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.3262987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1366" y="29" width="1280" height="991" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6871212" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="simpleUML" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39578715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6256324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="59" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/Echo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileLineCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/FileHelpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="154" column="28" lean-forward="false" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="1011" column="28" lean-forward="true" selection-start-line="1011" selection-start-column="28" selection-end-line="1011" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/Assignment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/additive/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/arrays/ArrayAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="49" lean-forward="false" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/arrays/ArraySize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/MYFILE.fs" />
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="37" column="73" lean-forward="false" selection-start-line="37" selection-start-column="73" selection-end-line="37" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileMkdir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/test/tmp_0.txt" />
+    <entry file="uml://JAVA/io.gihub.mikeborodin.interpreter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>io.gihub.mikeborodin.interpreter</OriginalElement>
+          <nodes>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.terminalexp.VariableExpr</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileWrite</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileList</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.context.IContext</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.And</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRead</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Input</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRemove</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.Equals</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileLineCount</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileExists</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayAdd</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Run</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayGet</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.lexer.LanguageSyntax</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.Converter</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.NotEquals</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.lexer.Token</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Divide</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.context.IInputManager</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Mod</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.lexer.TokenTypes</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Echo</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.Types</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.unary.Not</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.Parser</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.terminalexp.ArrayElementAccess</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Multiply</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.GreaterThan</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.lexer.Lexer</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToPath</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.statements</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.FileHelpers</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArraySize</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.lexer.ILexer</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Subtract</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileDirLineCount</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToString</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.terminalexp.Literal</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Add</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.IStatement</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileMkdir</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.LessThan</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Async</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayFind</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileCreate</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.context.Context</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.Or</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.Value</node>
+            <node x="" y="">io.gihub.mikeborodin.interpreter.parser.IExpression</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.41895758814512013" x="1621.0" y="-32.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/context/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="96" lean-forward="false" selection-start-line="26" selection-start-column="96" selection-end-line="26" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/arrays/ArrayGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="42" column="47" lean-forward="false" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileDirLineCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interpreter.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>io.gihub.mikeborodin.interpreter</OriginalElement>
+          <nodes>
+            <node x="1682.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.terminalexp.VariableExpr</node>
+            <node x="2449.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileWrite</node>
+            <node x="2489.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileList</node>
+            <node x="1788.8333333333326" y="532.0">io.gihub.mikeborodin.interpreter.context.IContext</node>
+            <node x="2569.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRead</node>
+            <node x="1825.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.And</node>
+            <node x="2779.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRemove</node>
+            <node x="2348.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Input</node>
+            <node x="1728.0" y="291.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.Equals</node>
+            <node x="2332.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileLineCount</node>
+            <node x="2099.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileExists</node>
+            <node x="1500.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayAdd</node>
+            <node x="2687.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Run</node>
+            <node x="1747.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayGet</node>
+            <node x="2063.8333333333326" y="532.0">io.gihub.mikeborodin.interpreter.lexer.LanguageSyntax</node>
+            <node x="1749.8333333333326" y="689.0">io.gihub.mikeborodin.interpreter.Converter</node>
+            <node x="1461.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.NotEquals</node>
+            <node x="2033.8333333333326" y="689.0">io.gihub.mikeborodin.interpreter.lexer.Token</node>
+            <node x="1917.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Divide</node>
+            <node x="2257.833333333332" y="532.0">io.gihub.mikeborodin.interpreter.context.IInputManager</node>
+            <node x="1365.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Mod</node>
+            <node x="2441.833333333332" y="532.0">io.gihub.mikeborodin.interpreter.lexer.TokenTypes</node>
+            <node x="2269.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Echo</node>
+            <node x="2163.833333333332" y="689.0">io.gihub.mikeborodin.interpreter.Types</node>
+            <node x="1591.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.unary.Not</node>
+            <node x="1902.8333333333326" y="689.0">io.gihub.mikeborodin.interpreter.parser.Parser</node>
+            <node x="1762.3333333333328" y="403.0">io.gihub.mikeborodin.interpreter.parser.terminalexp.ArrayElementAccess</node>
+            <node x="1363.0" y="291.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Multiply</node>
+            <node x="1480.0" y="291.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.GreaterThan</node>
+            <node x="1935.8333333333326" y="613.0">io.gihub.mikeborodin.interpreter.lexer.Lexer</node>
+            <node x="2717.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToPath</node>
+            <node x="1555.8333333333328" y="618.0000000000001">io.gihub.mikeborodin.interpreter.parser.statements</node>
+            <node x="1567.499999999999" y="685.6666666666665">io.gihub.mikeborodin.interpreter.parser.FileHelpers</node>
+            <node x="1624.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArraySize</node>
+            <node x="1933.8333333333326" y="532.0">io.gihub.mikeborodin.interpreter.lexer.ILexer</node>
+            <node x="1643.3333333333328" y="403.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Subtract</node>
+            <node x="2102.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileDirLineCount</node>
+            <node x="2598.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToString</node>
+            <node x="1623.0" y="291.0">io.gihub.mikeborodin.interpreter.parser.terminalexp.Literal</node>
+            <node x="1868.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Add</node>
+            <node x="1573.1666666666658" y="483.66666666666686">io.gihub.mikeborodin.interpreter.parser.IStatement</node>
+            <node x="2366.0" y="301.66666666666674">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileMkdir</node>
+            <node x="2105.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.LessThan</node>
+            <node x="2229.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Async</node>
+            <node x="1374.666666666666" y="342.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayFind</node>
+            <node x="2221.9999999999995" y="368.33333333333326">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileCreate</node>
+            <node x="1790.8333333333326" y="613.0">io.gihub.mikeborodin.interpreter.context.Context</node>
+            <node x="2022.0" y="241.0">io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.Or</node>
+            <node x="2291.833333333332" y="689.0">io.gihub.mikeborodin.interpreter.Value</node>
+            <node x="1948.0" y="0.0">io.gihub.mikeborodin.interpreter.parser.IExpression</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayAdd" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="178.0" y="71.0" />
+              <point x="1953.1617647058824" y="71.0" />
+              <point x="-53.33823529411757" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.terminalexp.Literal" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1195.5" y="151.0" />
+              <point x="1980.6911764705883" y="151.0" />
+              <point x="-25.80882352941171" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.Or" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="2053.5" y="211.0" />
+              <point x="2008.2205882352941" y="211.0" />
+              <point x="1.7205882352941444" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Run" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="3832.0" y="61.0" />
+              <point x="2059.8382352941176" y="61.0" />
+              <point x="53.33823529411757" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileList" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="2913.5" y="141.0" />
+              <point x="2032.3088235294117" y="141.0" />
+              <point x="25.80882352941171" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Async" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="2270.5" y="191.0" />
+              <point x="2015.1029411764705" y="191.0" />
+              <point x="8.602941176470495" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileWrite" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="3608.0" y="81.0" />
+              <point x="2052.955882352941" y="81.0" />
+              <point x="46.45588235294099" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.LessThan" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="2157.0" y="201.0" />
+              <point x="2011.6617647058824" y="201.0" />
+              <point x="5.161764705882433" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRead" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="3727.0" y="71.0" />
+              <point x="2056.3970588235293" y="71.0" />
+              <point x="49.89705882352928" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileDirLineCount" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="2555.5" y="171.0" />
+              <point x="2021.985294117647" y="171.0" />
+              <point x="15.485294117647072" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.NotEquals" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1516.0" y="181.0" />
+              <point x="1991.014705882353" y="181.0" />
+              <point x="-15.485294117647072" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileExists" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="3259.0" y="111.0" />
+              <point x="2042.6323529411764" y="111.0" />
+              <point x="36.13235294117635" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileRemove" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="3946.5" y="51.0" />
+              <point x="2063.279411764706" y="51.0" />
+              <point x="56.779411764705856" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToString" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="3027.5" y="131.0" />
+              <point x="2035.75" y="131.0" />
+              <point x="29.25" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.equality.Equals" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1301.5" y="161.0" />
+              <point x="1984.1323529411766" y="161.0" />
+              <point x="-22.367647058823422" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.lexer.Lexer" target="io.gihub.mikeborodin.interpreter.lexer.ILexer">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.logical.And" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1861.0" y="211.0" />
+              <point x="2001.3382352941176" y="211.0" />
+              <point x="-5.161764705882433" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileMkdir" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="2797.5" y="151.0" />
+              <point x="2028.8676470588234" y="151.0" />
+              <point x="22.367647058823422" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.context.Context" target="io.gihub.mikeborodin.interpreter.context.IContext">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileLineCount" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="2397.0" y="181.0" />
+              <point x="2018.5441176470588" y="181.0" />
+              <point x="12.044117647058783" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.unary.Not" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1626.5" y="191.0" />
+              <point x="1994.4558823529412" y="191.0" />
+              <point x="-12.044117647058783" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Echo" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="2687.5" y="161.0" />
+              <point x="2025.4264705882351" y="161.0" />
+              <point x="18.926470588235134" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.relational.GreaterThan" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1071.5" y="141.0" />
+              <point x="1977.25" y="141.0" />
+              <point x="-29.25" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.terminalexp.VariableExpr" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1743.5" y="201.0" />
+              <point x="1997.8970588235293" y="201.0" />
+              <point x="-8.602941176470722" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.Input" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="3497.5" y="91.0" />
+              <point x="2049.5147058823527" y="91.0" />
+              <point x="43.0147058823527" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArraySize" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="301.5" y="81.0" />
+              <point x="1956.6029411764705" y="81.0" />
+              <point x="-49.897058823529505" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayFind" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="53.0" y="61.0" />
+              <point x="1949.7205882352941" y="61.0" />
+              <point x="-56.779411764705856" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.ToPath" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="3142.5" y="121.0" />
+              <point x="2039.1911764705883" y="121.0" />
+              <point x="32.69117647058829" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Mod" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1403.0" y="171.0" />
+              <point x="1987.5735294117646" y="171.0" />
+              <point x="-18.92647058823536" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Subtract" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1223.5" y="119.0" />
+              <point x="1966.9264705882354" y="111.0" />
+              <point x="-39.57352941176464" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.files.FileCreate" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="3383.5" y="101.0" />
+              <point x="2046.0735294117646" y="101.0" />
+              <point x="39.57352941176464" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Multiply" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="941.5" y="131.0" />
+              <point x="1973.8088235294117" y="131.0" />
+              <point x="-32.69117647058829" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.multiplicative.Divide" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1959.5" y="221.0" />
+              <point x="2004.7794117647059" y="221.0" />
+              <point x="-1.7205882352941444" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.terminalexp.ArrayElementAccess" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="1377.0" y="139.0" />
+              <point x="1970.3676470588234" y="121.0" />
+              <point x="-36.13235294117658" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.additive.Add" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="530.0" y="101.0" />
+              <point x="1963.485294117647" y="101.0" />
+              <point x="-43.01470588235293" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.statements" target="io.gihub.mikeborodin.interpreter.parser.IStatement">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="io.gihub.mikeborodin.interpreter.parser.nonterminalexp.functions.arrays.ArrayGet" target="io.gihub.mikeborodin.interpreter.parser.IExpression">
+              <point x="0.0" y="-15.5" />
+              <point x="423.5" y="91.0" />
+              <point x="1960.0441176470588" y="91.0" />
+              <point x="-46.45588235294122" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.3189575881451201" x="1338.0" y="375.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/IExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/unary/Not.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="69" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/Invocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#478#479#0" expanded="false" />
+            <element signature="e#531#532#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="62" column="60" lean-forward="false" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="55" column="13" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="55" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/terminalexp/VariableExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/files/FileAppend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/lexer/ILexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/Declaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/If.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/For.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/file_one.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/file_two.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/bigfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/nonterminalexp/functions/Async.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/lexer/Lexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="111" column="8" lean-forward="false" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/lexer/TokenTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/lexer/LanguageSyntax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="92" column="24" lean-forward="false" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="191" column="32" lean-forward="true" selection-start-line="191" selection-start-column="32" selection-end-line="191" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/console/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-683">
+          <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/demo_3.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/demo_2.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/demo_1.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/demo_0.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/append.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/allcode1.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_script_src/main.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/gihub/mikeborodin/interpreter/parser/statements/While.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>fscript:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fscript</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../diagram.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
